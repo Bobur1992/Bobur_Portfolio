@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Bobur Abdullaev</title>
+    <link>https://bobur1992.github.io/bobur-portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Bobur Abdullaev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://bobur1992.github.io/bobur-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Titanic: Machine Learning from Disaster</title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-3/</link>
+      <pubDate>Sun, 10 May 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-3/</guid>
+      <description>On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+In this Project, I built a predictive model that answers the question: “what sorts of people were more likely to survive?</description>
+    </item>
+    
+    <item>
+      <title> Dog Breed Identification </title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-7/</link>
+      <pubDate>Wed, 22 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-7/</guid>
+      <description>Who&amp;rsquo;s a good dog? Who likes ear scratches? Well, it seems those fancy deep neural networks don&amp;rsquo;t have all the answers. However, maybe they can answer that ubiquitous question we all ask when meeting a four-legged stranger: what kind of good pup is that?
+In this project, while having provided a strictly canine subset of ImageNet, I practiced fine-grained image categorization. I identified the breed of a dog while given the image.</description>
+    </item>
+    
+    <item>
+      <title>Digit Recognition </title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-6/</link>
+      <pubDate>Wed, 22 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-6/</guid>
+      <description>Competition Description MNIST (&amp;ldquo;Modified National Institute of Standards and Technology&amp;rdquo;) is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+In this project, the goal was to correctly identify digits from a dataset of tens of thousands of handwritten images.</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction: Advanced Regression Techniques </title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-5/</link>
+      <pubDate>Wed, 22 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-5/</guid>
+      <description>Ask a home buyer to describe their dream house, and they probably won&amp;rsquo;t begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition&amp;rsquo;s dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, I predicted the final price of the house.</description>
+    </item>
+    
+    <item>
+      <title>Xray Pneumonia Detection </title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-8/</link>
+      <pubDate>Wed, 22 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-8/</guid>
+      <description>In this project, I applied a deep learning model to identify whether a patient has a pneumonia or not from the X-ray Images. Chest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients’ routine clinical care.For the analysis of chest x-ray images, all chest radiographs were initially screened for quality control by removing all low quality or unreadable scans.</description>
+    </item>
+    
+    <item>
+      <title>Bulldozer Price Prediction using Machine Learning</title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-4/</link>
+      <pubDate>Mon, 20 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-4/</guid>
+      <description>In this project, I went through an example machine learning project with the goal of predicting the sale price of bulldozers. Machine learning model in the project:
+ RandomForest Regressor  Click to view the code in GitHub
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bobur1992.github.io/bobur-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/contact/</guid>
+      <description>Social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/bobur-abdullaev-3706ba194/   Kaggle: https://www.kaggle.com/boburabdullaev   GitHub: https://github.com/Bobur1992   Email: 2092apex@gmail.com   Phone: 010-5728-9077    </description>
+    </item>
+    
+    <item>
+      <title>Heart Disease Prediction using Machine Learning</title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-2/</guid>
+      <description>For this project I used Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
+Content of the project:
+ Exploratory data analysis (EDA) - went through a dataset and found out more about it. Model training - created model(s) to learn to predict a target variable based on other variables.</description>
+    </item>
+    
+    <item>
+      <title>Histopathologic Cancer Detection</title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-9/</guid>
+      <description>In this project, I created an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans. The data for this project is a slightly modified version of the PatchCamelyon (PCam) benchmark dataset. PCam is highly interesting for both its size, simplicity to get started on, and approachability.
+Click to view the code in GitHub
+  </description>
+    </item>
+    
+    <item>
+      <title>The Effect of Book-Tax Difference on Earnings Quality: Empirical Evidence from KOSPI companies in Korea</title>
+      <link>https://bobur1992.github.io/bobur-portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bobur1992.github.io/bobur-portfolio/post/project-1/</guid>
+      <description>Abstract:
+ This paper investigates the role of temporary Book-Tax Differences(BTD) as a proxy for earnings quality using various measures to provide alternative indicators of earnings quality. Hence, it combines most frequently used hypotheses with some modifications. First, we partition total temporary BTD into its components such as large positive, large negative and small temporary BTDs. Then, we analyze the association between large temporary BTDs with discretionary accruals. Following that, the persistence of earnings will be examined when there are large positive and large negative BTDs.</description>
+    </item>
+    
+  </channel>
+</rss>
